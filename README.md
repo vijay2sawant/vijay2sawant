@@ -8,6 +8,7 @@
 ### :computer: Contact me on: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vijay2sawant/) 
 <a href="https://dribbble.com/vijay2sawant" target="_blank"><img align="left" alt="vijay2sawant | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"/></a>
+<a href="https://www.behance.net/vijay2sawant" target="_blank"><img align="left" alt="vijay2sawant | Behance" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg"/></a>
 
 ### Languages and Tools:
 <p align="left"> 
